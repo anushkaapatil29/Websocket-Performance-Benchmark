@@ -18,6 +18,6 @@ A high-concurrency WebSocket message broker and benchmarking tool built with Pyt
 📦 Installation
 
 1. Clone the repository:
-   bash
-   git clone [https://github.com/anushkaapatil29/websocket-performance-benchmark.git](https://github.com/yourusername/websocket-performance-benchmark.git)
+
+   git clone [https://github.com/anushkaapatil29/Websocket-Performance-Benchmark.git](https://github.com/yourusername/websocket-performance-benchmark.git)
    cd websocket-performance-benchmarking
